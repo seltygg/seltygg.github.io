@@ -22,5 +22,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: isProd ? '/seltygg.github.io/docs/' : './',
+  base: isProd ? '/seltygg.github.io/' : './',
 }));
