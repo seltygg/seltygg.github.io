@@ -30,7 +30,7 @@ export const About = () => {
               <Avatar className="w-64 h-64 border-4 border-blue-400">
                 <AvatarImage 
                   src="/lovable-uploads/8f68b2c4-440d-4527-9c43-2a7ebf7ef134.png" 
-                  alt="Hardeep Sahu"
+                  alt="Sankalp Sikchi"
                   className="object-cover"
                 />
                 <AvatarFallback className="text-4xl bg-blue-400 text-white">HS</AvatarFallback>
@@ -102,11 +102,7 @@ export const About = () => {
                   <ul className="space-y-3 text-gray-300">
                     <li className="flex items-start">
                       <span className="text-green-400 mr-3 mt-1">•</span>
-                      <span>Designed and implemented real-time data ingestion pipelines using Apache Kafka and Apache Flink, processing over 1M+ events daily with 99.9% uptime reliability</span>
-                    </li>
-                    <li className="flex items-start">
-                      <span className="text-green-400 mr-3 mt-1">•</span>
-                      <span>Delivered comprehensive instruction on Business Intelligence and Database Management to 150+ graduate students, achieving 95% student satisfaction rate</span>
+                      <span>Delivered comprehensive instruction on Business Intelligence and Database Management to 200+ graduate students, achieving 95% student satisfaction rate</span>
                     </li>
                     <li className="flex items-start">
                       <span className="text-green-400 mr-3 mt-1">•</span>
@@ -126,15 +122,15 @@ export const About = () => {
                   <ul className="space-y-3 text-gray-300">
                     <li className="flex items-start">
                       <span className="text-green-400 mr-3 mt-1">•</span>
-                      <span>Developed responsive React UI components serving 100K+ healthcare professionals, improving user engagement by 35% and reducing page load times by 50%</span>
+                      <span>Enhanced system performance by identifying the right balance between horizontal and vertical scaling strategies, leading to a 30% improvement in resource utilization and handling a significant increase in traffic</span>
                     </li>
                     <li className="flex items-start">
                       <span className="text-green-400 mr-3 mt-1">•</span>
-                      <span>Architected and deployed scalable microservices on AWS infrastructure, handling 10M+ API requests daily with 99.95% availability using CloudFront and Route53</span>
+                      <span>Architected and deployed scalable microservices on AWS infrastructure, handling 5M+ API requests daily with 99.95% availability using CloudFront and Route53</span>
                     </li>
                     <li className="flex items-start">
                       <span className="text-green-400 mr-3 mt-1">•</span>
-                      <span>Optimized REST API performance through advanced caching strategies and database query optimization, reducing response times by 60% and improving system throughput</span>
+                      <span>Revamped REST APIs for User, Communication and Workflow microservices increasing database performance by 20%, Documented APIs on SwaggerHub following OAS standards for existing microservices</span>
                     </li>
                   </ul>
                 </div>
@@ -150,7 +146,7 @@ export const About = () => {
                   <ul className="space-y-3 text-gray-300">
                     <li className="flex items-start">
                       <span className="text-green-400 mr-3 mt-1">•</span>
-                      <span>Orchestrated Kubernetes EKS clusters managing 50+ microservices, achieving 99.9% uptime and reducing deployment time by 70% through automated CI/CD pipelines</span>
+                      <span>Orchestrated and deployed microservices for accounts, order, and sim provisioning using EKS, Terraform and FluxCD, integrating Kong as an API gateway with predefined ingress rules for external vendors reducing 60% code for authentication in application.</span>
                     </li>
                     <li className="flex items-start">
                       <span className="text-green-400 mr-3 mt-1">•</span>
@@ -158,7 +154,7 @@ export const About = () => {
                     </li>
                     <li className="flex items-start">
                       <span className="text-green-400 mr-3 mt-1">•</span>
-                      <span>Led MongoDB to PostgreSQL migration project for 500GB+ dataset, ensuring zero downtime during transition and improving query performance by 45%</span>
+                      <span>Spearheaded the migration of MongoDB to a hybrid architecture combining MongoDB and Amazon RDS, designing efficient data pipelines using Alembic/Prisma, ensuring zero downtime, and reducing query response time by 40%.</span>
                     </li>
                     <li className="flex items-start">
                       <span className="text-green-400 mr-3 mt-1">•</span>
