@@ -3,16 +3,16 @@ import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
 
 export const About = () => {
   const competencies = {
-    "name": "Hardeep Sahu",
+    "name": "Sankalp Sikchi",
     "role": "Full Stack Developer & Data Professional",
-    "skills": ["Python", "React", "JavaScript", "TypeScript", "Django", "Node.js"],
+    "skills": ["Python", "Pytorch", "JAX", "React", "JavaScript", "TypeScript", "Django", "Node.js","Cursor", "Flask", "FastAPI", "HTML", "CSS", "Tailwind CSS", "Bootstrap","Lovable","Vercel","Replit"],
     "tools": ["AWS", "Docker", "Kubernetes", "MongoDB", "PostgreSQL", "Apache Kafka"],
     "expertise": ["Machine Learning", "Data Analytics", "System Architecture", "Cloud Computing"],
     "education": ["Masters in MIS", "Computer Engineering"],
     "contact": {
-      "email": "naivisharhardeep@gmail.com",
-      "github": "https://github.com/hardeep99100",
-      "linkedin": "https://www.linkedin.com/in/hardeep-sahu/"
+      "email": "sankalpsikchi@gmail.com",
+      "github": "https://github.com/seltygg",
+      "linkedin": "https://www.linkedin.com/in/sankalp-sikchi/"
     }
   };
 

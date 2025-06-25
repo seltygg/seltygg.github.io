@@ -1,4 +1,3 @@
-
 import { Award, ExternalLink } from "lucide-react";
 
 export const Certifications = () => {
@@ -62,4 +61,4 @@ export const Certifications = () => {
       </div>
     </section>
   );
-};
+}; 
