@@ -77,7 +77,7 @@ export const About = () => {
             <div className="space-y-6">
               <p className="text-lg text-gray-300 leading-relaxed">
                 I'm a passionate Full Stack Developer with expertise in modern web technologies 
-                and data science. Currently pursuing my Master's in Management Information Systems 
+                and data science. Completed my Master's in Management Information Systems 
                 at the University of Arizona while building innovative projects that solve real-world problems.
               </p>
               <p className="text-lg text-gray-300 leading-relaxed">
