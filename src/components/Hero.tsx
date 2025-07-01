@@ -27,7 +27,7 @@ export const Hero = () => {
           
           <div className="mb-8">
             <a
-              href="https://drive.google.com/file/d/141kufcgUu0BW4rTLC48Ow9CzrdcXcJJ-/view?usp=sharing"
+              href="https://drive.google.com/file/d/1aPoYFQsRMxeDNGmJMy8zsrgJMqTcXDAX/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg transition-colors duration-300"
