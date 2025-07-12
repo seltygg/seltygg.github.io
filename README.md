@@ -1,1 +1,1 @@
-# seltygg.github.io 
+# seltygg.github.io
